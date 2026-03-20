@@ -1,0 +1,14 @@
+package poly.car0;
+
+public class K3Car {
+    public void startEngine(){
+        System.out.println("K3Car.startEngine");
+    }
+
+    public void offEnghine(){
+        System.out.println("K3Car.offEnghine");
+    }
+    public void pressAccelerator(){
+        System.out.println("K3Car.pressAccelerator");
+    }
+}
